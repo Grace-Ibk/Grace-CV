@@ -1,69 +1,20 @@
-## Your Name
+PROFILE SUMMARY
+Aspiring data scientist with a background in data entry and data management. A multilingual and detail-oriented professional skilled in planning, communication, and administration with a track record of delivering results across education, nonprofit, and freelance roles. Passionate about language, learning, and creating organized systems that work. Data is one of the bedrocks of our society, and I look forward to contributing.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+WORK EXPERIENCE
+Data Entry Clerk
+Gradely (Remote) | Jun 2021 – Oct 2021  
+Performed accurate data input, document verification, and digital filing  
+Resolved data discrepancies and followed data privacy protocols  
 
-## Projects
+SKILLS
+Data Tools: Microsoft Excel, Dropbox, Google Drive, Data Entry Software
+Core Skills: Content Writing, Data Entry, Event Planning, Lesson Delivery, Bilingual Communication
+Soft Skills: Data Management, Planning, Detail Orientation, Team Collaboration, Written & Verbal Communication
+Languages: Fluent in English, Yoruba; Proficient in French (DELF B2)
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+CERTIFICATIONS
+Data Science - Tugeddah (Ongoing)
 
-## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+CAREER GOALS
+To leverage my analytical and technical skills to drive growth and innovation as a data scientist, leading projects that deliver actionable insights and impactful solutions, while continuously learning and staying at the forefront of data science advancements.
