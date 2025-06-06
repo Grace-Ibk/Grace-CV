@@ -39,3 +39,20 @@ Data Management, Planning, Attention to Detail, Team Collaboration, Written & Ve
 
 # Career Goals
 To leverage analytical and technical expertise to drive innovation and growth in data science. Aspiring to lead projects that generate actionable insights and meaningful impact, while continuously learning and evolving with advancements in the field.
+
+
+##  Technical Highlight: GitHub-Based Digital CV
+
+This project transformed a traditional Europass CV into a Markdown-based GitHub profile that’s readable, clean, and professional. I used Markdown to organize information for clarity.
+
+**Key tools and skills used:**
+- Markdown for digital documentation  
+- Git for managing changes to the repository and synchronizing it with GitHub  
+- VS Code for editing the `README.md`  
+- GitHub for forking the CV repository, portfolio hosting, and professional presentation  
+
+---
+
+##  Process Reflection
+
+This process helped me see my skills through a new lens — not just as job titles, but as value. What seemed like a simple CV task became a meaningful way to articulate my voice, work, and readiness for new opportunities. It also gave me a better appreciation of how digital tools can enhance personal branding.
